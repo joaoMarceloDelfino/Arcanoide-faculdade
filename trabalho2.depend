@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1729463192 source:c:\users\joao marcelo\onedrive\documentos\github\trabalho2\main.cpp
+	"Cabeçalho.h"
+	<cctype>
+	<climits>
+	<algorithm>
+	<ctime>
+	<iostream>
+	<string>
+
+1729806480 c:\users\joao marcelo\onedrive\documentos\github\trabalho2\cabeçalho.h
+	<string>
+	<ctime>
+	<sstream>
+	<iomanip>
+	<iostream>
+
+1729737410 source:c:\users\joao marcelo\onedrive\documentos\github\trabalho2\funcos.cpp
+	<conio.h>
+	<ctime>
+	<iostream>
+	<string>
+	<windows.h>
+	"Cabeçalho.h"
+	<chrono>
+	<vector>
+	<fstream>
+	<thread>
+	<sstream>
+	<utility>
+	<algorithm>
+
